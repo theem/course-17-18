@@ -1,0 +1,9 @@
+Day                     Dinner
+Today                   Bread
+Yesterday               Pasta
+Day before Yesterday    Chicken
+
+2017-09-25              Bread
+2017-09-24              Pasta
+2017-09-23              Chicken
+
